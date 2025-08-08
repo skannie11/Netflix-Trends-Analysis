@@ -37,9 +37,11 @@ Top content-producing countries include:
 This gives a global view of Netflix’s distribution strategy and content acquisition.
 
 ## 📷 Dashboard Preview
-![Netflix Power BI Dashboard](https://i.imgur.com/YOUR_IMAGE_LINK.png)
-> Replace the above link with the actual hosted image URL from GitHub, Imgur, or another public host.
+<p align="center">
+<img width="1210" height="678" alt="Image" src="https://github.com/user-attachments/assets/b6fbe6ae-79e9-412c-abd1-aa306ed3d1fa" />
+</p>
 
+---
 ## 📌 Tools Used
 - Power BI for dashboard development and interactivity
 - Python & Excel for initial data cleaning
