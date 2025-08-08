@@ -1,5 +1,8 @@
 # 📊 Netflix Dashboard Analysis
 
+### Dashboard Link : https://app.powerbi.com/links/nQhSXgOAH1?ctid=7bc45dd5-2c5a-45df-92c5-7debd428a284&pbi_source=linkShare
+
+
 ## 📝 Overview
 This interactive Power BI dashboard provides insights into the global content distribution on Netflix, based on factors such as content type, ratings, release years, country-wise contribution, and director involvement.
 
